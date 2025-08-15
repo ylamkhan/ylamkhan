@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/binary/ylamkhan" alt="ylamkhan's 42 stats" />
   </a>
-</div>
+</div>.
 ![3D GitHub Profile](https://raw.githubusercontent.com/ylamkhan/ylamkhan/main/profile-3d-contrib/profile-night-view.svg)
 
 

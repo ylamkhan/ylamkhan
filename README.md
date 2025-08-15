@@ -1,7 +1,7 @@
-# Hi there, I'm Youssef Lamkhantar! 👋
+
 
 <!-- Animated Typing Header -->
-<div align="center">
+#<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A020F0&width=800&lines=Hi+there%2C+I'm+Youssef+Lamkhantar+%F0%9F%91%8B;I+love+coding+💻;I+love+data+science+📊;I+love+AI+🤖;I+love+problem+solving+🧩;I+love+development+🚀" alt="Typing Animation">
 </div>
 

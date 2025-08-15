@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--# Hi there, I'm Youssef Lamkhantar 👋-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=09F70EFF&width=900&lines=Hi+there%2C+I'm+Youssef+Lamkhantar+%F0%9F%91%8B;I+love+coding+💻;I+love+data+science+📊;I+love+AI+🤖;I+love+problem+solving+🧩;I+love+development+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=09F70EFF&width=999&lines=Hi+there%2C+I'm+Youssef+Lamkhantar+%F0%9F%91%8B;I+love+coding+💻;I+love+data+science+📊;I+love+AI+🤖;I+love+problem+solving+🧩;I+love+development+🚀)
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ylamkhan" alt="ylamkhan's 42 stats" /></a>
 ![3D GitHub Profile](https://raw.githubusercontent.com/ylamkhan/ylamkhan/main/profile-3d-contrib/profile-night-view.svg)
 

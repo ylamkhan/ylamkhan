@@ -228,19 +228,16 @@ SQL          42 mins         ██░░░░░░░░░░░░░░░
 
 ## 🤝 Connect with Me
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-lamkhantar)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ylamkhan@student.42.fr)
-  [![42 Profile](https://img.shields.io/badge/-42%20Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/ylamkhan)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ylamkhan.github.io)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ylamkhantar)
-  [![Codingame](https://img.shields.io/badge/-Codingame-00BFFF?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/ylamkhan)
-  [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ylamkhan)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ylamkhan/)
-  <a href="https://sdas-group.com/members/Youssef-Lamkhantar/">
-    <img src="https://github.com/ylamkhan/ylamkhan/blob/main/logo-sdas-group.png" width="100" style="display:inline-block; vertical-align:middle;"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-lamkhantar)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ylamkhan@student.42.fr)
+[![42 Profile](https://img.shields.io/badge/-42%20Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/ylamkhan)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ylamkhan.github.io)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ylamkhantar)
+[![Codingame](https://img.shields.io/badge/-Codingame-00BFFF?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/ylamkhan)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ylamkhan)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ylamkhan/)
+[![SDAS-Groub](https://github.com/ylamkhan/ylamkhan/blob/main/logo-sdas-group.png)](https://sdas-group.com/members/Youssef-Lamkhantar/)
+
 
 ---
 

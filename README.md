@@ -238,7 +238,7 @@ SQL          42 mins         ██░░░░░░░░░░░░░░░
 [![Codingame](https://img.shields.io/badge/-Codingame-00BFFF?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/ylamkhan)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ylamkhan)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ylamkhan/)
-[![SDAS-Groub](https://img.shields.io/badge/-SDAS--Groub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://sdas-group.com/members/Youssef-Lamkhantar/)
+[![SDAS-Groub](ylamkhan/.png)](https://sdas-group.com/members/Youssef-Lamkhantar/)
 </div>
 
 

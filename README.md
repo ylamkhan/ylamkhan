@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ylamkhan/ylamkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm [Your Name] 👋
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ylamkhan" alt="ylamkhan's 42 stats" /></a>
 ![3D GitHub Profile](https://raw.githubusercontent.com/ylamkhan/ylamkhan/main/profile-3d-contrib/profile-night-view.svg)
 
 
 
-# Hi there, I'm [Your Name] 👋
 
-## 🚀 About Me
+<!--## 🚀 About Me
 I'm a passionate **[Your Role]** with **[X years]** of experience in building scalable web applications and solving complex problems through code. I love creating efficient solutions and contributing to open-source projects.
 
 - 🔭 I'm currently working on **[Current Project/Job]**
@@ -29,7 +28,7 @@ I'm a passionate **[Your Role]** with **[X years]** of experience in building sc
 - 👯 I'm looking to collaborate on **[Type of projects]**
 - 💬 Ask me about **[Your expertise areas]**
 - 📫 How to reach me: **[Your email]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- ⚡ Fun fact: **[Something interesting about you]** -->
 
 ## 🛠️ Tech Stack
 

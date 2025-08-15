@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 <!--# Hi there, I'm Youssef Lamkhantar 👋-->
 
-<br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=09F70EFF&width=800&lines=Hi+there%2C+I'm+Youssef+Lamkhantar+%F0%9F%91%8B;I+love+coding+💻;I+love+data+science+📊;I+love+AI+🤖;I+love+problem+solving+🧩;I+love+development+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=09F70EFF&width=800&lines=Hi+there%2C+I'm+Youssef+Lamkhantar+%F0%9F%91%8B;I+love+coding+💻;I+love+data+science+📊;I+love+AI+🤖;I+love+problem+solving+🧩;I+love+development+🚀)
 
 
 <p align="center">

@@ -29,20 +29,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/ylamkhan/ylamkhan/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Profile">
 </p>
 
-
-
-
-
-<!--## 🚀 About Me
-I'm a passionate **[Your Role]** with **[X years]** of experience in building scalable web applications and solving complex problems through code. I love creating efficient solutions and contributing to open-source projects.
-
-- 🔭 I'm currently working on **[Current Project/Job]**
-- 🌱 I'm currently learning **[Technology/Skill you're learning]**
-- 👯 I'm looking to collaborate on **[Type of projects]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[Your email]**
-- ⚡ Fun fact: **[Something interesting about you]** -->
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -70,6 +56,25 @@ I'm a passionate **[Your Role]** with **[X years]** of experience in building sc
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Data Science & AI
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### Data Engineering
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+
+### Data Analysis & Visualization
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)

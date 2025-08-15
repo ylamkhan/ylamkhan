@@ -1,15 +1,23 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=09F70EFF&width=800&lines=Hi+there%2C+I'm+Youssef+Lamkhantar+%F0%9F%91%8B;I+love+coding+💻;I+love+data+science+📊;I+love+AI+🤖;I+love+problem+solving+🧩;I+love+development+🚀)
+<br><br>
 
+<!-- Animated Typing Header -->
+<p align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A020F0&width=800&lines=Hi+there%2C+I'm+Youssef+Lamkhantar+%F0%9F%91%8B;I+love+coding+💻;I+love+data+science+📊;I+love+AI+🤖;I+love+problem+solving+🧩;I+love+development+🚀)
+</p>
 
+<!-- 42 Badge -->
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/binary/ylamkhan" alt="ylamkhan's 42 stats">
   </a>
 </p>
 
+<!-- 3D GitHub Profile -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ylamkhan/ylamkhan/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Profile">
 </p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -70,28 +78,29 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+---
 
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ylamkhan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ylamkhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-
-
-
+<p align="center">
+  <!-- Contribution Graph -->
+  [![Youssef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ylamkhan&bg_color=0d1117&color=A020F0&line=FFFFFF&point=A020F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
 
 ---
 
 <div align="center">
-
 ### 🌟 Let's Connect & Build Amazing Things Together!
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&left_color=gray&right_color=brightgreen&left_text=Profile%20Views)
-
 </div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 </div>
-

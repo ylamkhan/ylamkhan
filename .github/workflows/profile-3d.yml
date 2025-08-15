@@ -1,8 +1,10 @@
 name: GitHub-Profile-3D-Contrib
+# Generates multiple styles of 3D GitHub contribution charts
+# and updates README automatically.
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 10 * * *"
+  schedule:
+    - cron: "0 10 * * *"  # Every day at 10:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -12,17 +14,45 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Charts (Main Style)
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      # Repeat for additional styles if you want variations
+      # Each run overwrites `profile-3d-contrib` with the selected style
+      - name: Generate Night View
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ./sample-settings/night.json
+
+      - name: Optimize SVG files
+        run: |
+          sudo apt-get update && sudo apt-get install -y svgo
+          svgo -f profile-3d-contrib --multipass
+
+      - name: Update README with latest chart
+        run: |
+          # Replace placeholder in README.md with new image link
+          sed -i 's|!\[3D GitHub Profile\](.*)|![3D GitHub Profile](./profile-3d-contrib/profile-green-animate.svg)|' README.md
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
-            git push
-          fi
+          git commit -m "🖼 Update GitHub 3D Contribution Charts ($(date +'%Y-%m-%d %H:%M:%S'))" || echo "No changes to commit"
+          git push
+
+      - name: Show Summary
+        run: |
+          echo "✅ 3D Contribution Charts Updated!" >> $GITHUB_STEP_SUMMARY
+          echo "📅 Run Time: $(date)" >> $GITHUB_STEP_SUMMARY

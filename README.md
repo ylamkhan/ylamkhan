@@ -1,21 +1,3 @@
-
-<!--
-**ylamkhan/ylamkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--# Hi there, I'm Youssef Lamkhantar 👋-->
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=09F70EFF&width=800&lines=Hi+there%2C+I'm+Youssef+Lamkhantar+%F0%9F%91%8B;I+love+coding+💻;I+love+data+science+📊;I+love+AI+🤖;I+love+problem+solving+🧩;I+love+development+🚀)
 
 
@@ -88,171 +70,11 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 📊 GitHub Analytics
 
-<div align="center">
 
-### 🔥 GitHub Statistics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
-### 🎯 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
-
-### ⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
-## 📊 Detailed Statistics
-
-<div align="center">
-
-| 📊 **This Week I Spent My Time On** |
-| --- |
-| ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact) |
-
-</div>
-
-<details>
-<summary>📈 More GitHub Metrics</summary>
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/YOUR_USERNAME?template=classic&config.timezone=America%2FNew_York)
-
-### 📅 Commit Calendar
-![GitHub Activity Calendar](https://ghchart.rshah.org/YOUR_USERNAME)
-
-### 🎭 Profile Views
-![Profile views](https://gpvc.arturio.dev/YOUR_USERNAME)
-
-### ⏰ Coding Time Distribution
-![Coding Time](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight)
-
-</div>
-
-</details>
-
-## 🏆 Featured Projects
-
-### 🌟 [Project Name 1](https://github.com/yourusername/project1)
-**Description**: Brief description of what this project does and why it's impressive.
-- **Tech Stack**: React, Node.js, PostgreSQL
-- **Features**: Key features or accomplishments
-- **Live Demo**: [Link to live demo](https://your-demo-link.com)
-
-### 🌟 [Project Name 2](https://github.com/yourusername/project2)
-**Description**: Brief description of what this project does and why it's impressive.
-- **Tech Stack**: Python, Django, Docker
-- **Features**: Key features or accomplishments
-- **Live Demo**: [Link to live demo](https://your-demo-link.com)
-
-### 🌟 [Project Name 3](https://github.com/yourusername/project3)
-**Description**: Brief description of what this project does and why it's impressive.
-- **Tech Stack**: Vue.js, Express.js, MongoDB
-- **Features**: Key features or accomplishments
-- **Live Demo**: [Link to live demo](https://your-demo-link.com)
-
-## 🎨 Interactive Code Visualization
-
-<div align="center">
-
-### 📊 Language Stats Over Time
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=donut)
-
-### 🌟 Repository Stars Timeline
-![Stars Timeline](https://starchart.cc/YOUR_USERNAME/YOUR_POPULAR_REPO.svg)
-
-### 💡 Problem Solving Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark)
-
-### 🏃‍♂️ Coding Velocity
-```text
-📅 This Year:    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%
-📝 Total Commits: 1,234 commits
-🔥 Current Streak: 45 days
-💪 Longest Streak: 87 days
-📊 This Week: 32 commits
-⏰ Best Day: Monday (245 commits)
-🕐 Best Hour: 2PM - 3PM
-```
-
-</div>
-
-## 🏅 Achievements
-
-- 🎯 **[X]** repositories with **[Y]** stars combined
-- 🔥 **[X]** day coding streak (personal best)
-- 🌟 Contributed to **[X]** open-source projects
-- 📝 Published **[X]** technical articles
-- 🎤 Spoke at **[X]** tech events/meetups
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://your-blog-link.com/post1)
-- [Blog Post Title 2](https://your-blog-link.com/post2)
-- [Blog Post Title 3](https://your-blog-link.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.com)
-
-</div>
-
-## 📊 Real-Time Development Analytics
-
-<div align="center">
-
-### ⚡ Live Coding Stats (Powered by Wakatime)
-<!--START_SECTION:waka-->
-```text
-💻 Operating System:
-Linux       12 hrs 30 mins  ████████████░░░░░  75.2%
-Windows      3 hrs 45 mins  ███░░░░░░░░░░░░░░  22.6%
-macOS        22 mins        ░░░░░░░░░░░░░░░░░   2.2%
-
-📝 Editors:
-VS Code     14 hrs 15 mins  ██████████████░░░  85.7%
-Vim          1 hr 45 mins   ██░░░░░░░░░░░░░░░  10.5%
-IntelliJ     38 mins        ░░░░░░░░░░░░░░░░░   3.8%
-
-🔥 Languages:
-JavaScript   8 hrs 30 mins  ████████████░░░░░  51.2%
-Python       4 hrs 15 mins  ██████░░░░░░░░░░░  25.6%
-TypeScript   2 hrs 45 mins  ████░░░░░░░░░░░░░  16.6%
-CSS          1 hr 5 mins    ██░░░░░░░░░░░░░░░   6.6%
-```
-<!--END_SECTION:waka-->
-
-### 🎮 GitHub Game Stats
-![Snake Animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-### 🔥 Contribution Metrics
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Statistics" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
-
-### 🏆 Achievement Showcase
-![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyo_night)
-
-</div>
 
 ---
 
@@ -280,14 +102,6 @@ CSS          1 hr 5 mins    ██░░░░░░░░░░░░░░░ 
 ### 📍 Coding Heatmap
 ![Coding Heatmap](https://ghchart.rshah.org/409ba5/YOUR_USERNAME)
 
-### 🎯 Performance Dashboard
-| Metric | Value | Graph |
-|--------|-------|-------|
-| 🔥 **Streak** | 45 days | `████████░░` 80% |
-| ⭐ **Stars** | 234 | `██████████` 100% |
-| 🍴 **Forks** | 89 | `██████░░░░` 60% |
-| 👀 **Watchers** | 156 | `████████░░` 80% |
-| 📝 **Commits** | 1,234 | `██████████` 100% |
 
 ### 🌟 Repository Highlights
 <div>
@@ -299,15 +113,4 @@ CSS          1 hr 5 mins    ██░░░░░░░░░░░░░░░ 
 </a>
 </div>
 
-### 🎨 Skill Radar Chart
-```
-        Languages                    Frameworks
-           ⭐⭐⭐⭐⭐                    ⭐⭐⭐⭐⭐
-    JavaScript ████████████      React ████████████
-    Python     ██████████        Node.js ███████████
-    TypeScript █████████         Vue.js  ████████
-    Java       ███████           Django  ██████
-    Go         ████              Next.js █████████
-```
 
-</div>

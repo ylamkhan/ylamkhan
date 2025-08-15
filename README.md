@@ -95,22 +95,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 </div>
 
-## 🌍 Global Developer Metrics
-
-<div align="center">
-
-### 📍 Coding Heatmap
-![Coding Heatmap](https://ghchart.rshah.org/409ba5/YOUR_USERNAME)
-
-
-### 🌟 Repository Highlights
-<div>
-<a href="https://github.com/YOUR_USERNAME/REPO1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/REPO2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO2&theme=tokyonight&hide_border=true" />
-</a>
-</div>
-
-

@@ -64,7 +64,7 @@ I'm a passionate **Data Scientist & Full-Stack Developer** with expertise in AI,
 - 🌱 I'm currently learning **Advanced MLOps and Cloud Architecture**
 - 👯 I'm looking to collaborate on **Open source AI projects and data science initiatives**
 - 💬 Ask me about **Python, JavaScript, Data Science, AI, and Web Development**
-- 📫 How to reach me: **ylamkhan@student.42.fr**
+- 📫 How to reach me: **https://youssef-lamkhantar.vercel.app/**
 - ⚡ Fun fact: **I solve problems with coffee and code! ☕**
 
 ---
@@ -175,21 +175,21 @@ I'm a passionate **Data Scientist & Full-Stack Developer** with expertise in AI,
 
 ## 🌟 Featured Projects
 
-### 🎯 [Project Name 1](https://github.com/ylamkhan/project1)
+### 🎯 [dimensionality reduction](https://github.com/ylamkhan/project1)
 **AI-Powered Data Analysis Platform**
 - **Tech Stack**: Python, FastAPI, React, PostgreSQL
 - **Features**: Machine learning models, real-time data processing, interactive dashboards
 - **Impact**: Automated data insights for business decisions
 
-### 🚀 [Project Name 2](https://github.com/ylamkhan/project2)  
+### 🚀 [ft_transcendence](https://github.com/ylamkhan/ft_transcendence)  
 **Full-Stack Web Application**
-- **Tech Stack**: Next.js, TypeScript, Node.js, MongoDB
+- **Tech Stack**: Html, JavaScript,CSS, PostgreSQL, Docker
 - **Features**: Authentication, real-time updates, responsive design
 - **Impact**: Scalable solution serving 1000+ users
 
-### 🤖 [Project Name 3](https://github.com/ylamkhan/project3)
+### 🤖 [Piscine Data Science](https://github.com/ylamkhan/PiscinesDataScience)
 **Machine Learning Model Pipeline**
-- **Tech Stack**: Python, TensorFlow, Docker, AWS
+- **Tech Stack**: Python, TensorFlow, Docker
 - **Features**: Automated model training, deployment pipeline, API integration
 - **Impact**: 95% accuracy improvement over baseline
 

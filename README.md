@@ -17,10 +17,13 @@
 
 </div>
 
-<!-- 42 Badge -->
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/binary/ylamkhan" alt="ylamkhan's 42 stats">
+    <img
+      src="https://badge.mediaplus.ma/binary/ylamkhan"
+      alt="42 Network Profile"
+      width="400"
+    />
   </a>
 </p>
 

@@ -20,6 +20,7 @@ jobs:
       - name: Generate latest projects
         uses: actions/github-script@v7
         with:
+          # IMPORTANT: Use the PAT to access private repositories
           github-token: ${{ secrets.PROJECTS_TOKEN }}
           script: |
             const fs = require('fs');
@@ -27,25 +28,26 @@ jobs:
             const username = 'ylamkhan';
             const readmePath = 'README.md';
 
-            // Retrieve repositories accessible to the token
+            // Retrieve repositories belonging to the authenticated account
             const repos = await github.paginate(
               github.rest.repos.listForAuthenticatedUser,
               {
                 visibility: 'all',
                 affiliation: 'owner',
-                per_page: 100,
                 sort: 'pushed',
-                direction: 'desc'
+                direction: 'desc',
+                per_page: 100
               }
             );
 
-            // Select the latest three owned projects
+            // Select the latest three projects, including private ones
             const latest = repos
               .filter(repo =>
-                repo.owner.login.toLowerCase() === username &&
+                repo.owner.login.toLowerCase() === username.toLowerCase() &&
                 !repo.fork &&
                 !repo.archived &&
-                repo.name.toLowerCase() !== username
+                repo.name.toLowerCase() !== username.toLowerCase() &&
+                repo.pushed_at
               )
               .sort((a, b) =>
                 new Date(b.pushed_at) - new Date(a.pushed_at)
@@ -63,17 +65,19 @@ jobs:
                 .replace(/\|/g, '\\|')
                 .replace(/\r?\n/g, ' ');
 
-              const visibility = repo.private
-                ? '🔒 Private'
-                : '🌐 Public';
+              // Avoid publishing a broken link to a private repository
+              const title = repo.private
+                ? `### 🔒 ${repo.name} (Private)`
+                : `### 🚀 [${repo.name}](${repo.html_url})`;
 
               return [
-                `### 🚀 [${repo.name}](${repo.html_url})`,
+                title,
+                '',
                 description,
                 '',
                 `- **Language:** ${repo.language || 'Not specified'}`,
                 `- **Last push:** ${date}`,
-                `- **Visibility:** ${visibility}`,
+                `- **Visibility:** ${repo.private ? 'Private' : 'Public'}`,
                 ''
               ].join('\n');
             }).join('\n');
@@ -88,13 +92,13 @@ jobs:
 
             if (startIndex === -1 || endIndex === -1 ||
                 endIndex < startIndex) {
-              throw new Error('Featured Projects markers not found.');
+              throw new Error('Featured Projects markers not found in README.');
             }
 
             const updatedSection = [
               start,
               '',
-              'Projects automatically ranked by latest push activity.',
+              'Projects automatically ranked by their latest push activity.',
               '',
               projects || '*No eligible repositories found.*',
               end

@@ -61,18 +61,21 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Data Scientist & Full-Stack Developer** with expertise in AI, machine learning, and modern web technologies. I love turning data into insights and building scalable solutions that make a real impact.
+I'm a **Software Engineer and AI Researcher** interested in building intelligent systems that combine software engineering, machine learning, and data-driven technologies. My work focuses on transforming complex data into practical solutions through research, experimentation, and engineering.
 
-- 🔭 I'm currently working on **AI/ML projects and data engineering pipelines**
-- 🌱 I'm currently learning **Advanced MLOps and Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open source AI projects and data science initiatives**
-- 💬 Ask me about **Python, JavaScript, Data Science, AI, and Web Development**
-- 📫 How to reach me: **https://youssef-lamkhantar.vercel.app/**
-- ⚡ Fun fact: **I solve problems with coffee and code! ☕**
+- 🔭 **Currently working on:** CropID — an intelligent agricultural monitoring and crop classification platform integrating AI, remote sensing, and geospatial technologies.
+- 🧠 **Research interests:** Machine Learning, Deep Learning, Computer Vision, Remote Sensing, and Geospatial AI.
+- 💻 **Engineering focus:** Full-Stack Development, Backend Systems, API Design, and AI-powered applications.
+- 🌱 **Currently exploring:** Advanced Machine Learning, MLOps, model generalisation, and scalable AI architectures.
+- 🤝 **Open to collaborating on:** AI research, open-source software, geospatial applications, and innovative engineering projects.
+- 💬 **Ask me about:** Python, Java, JavaScript, Machine Learning, Deep Learning, and Software Engineering.
+- 🌐 **Portfolio:** [youssef-lamkhantar.vercel.app](https://youssef-lamkhantar.vercel.app/)
 
 ---
+
+*Building intelligent solutions through research, engineering, and continuous learning.*
 
 ## 🛠️ Tech Stack
 

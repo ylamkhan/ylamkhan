@@ -193,68 +193,18 @@ I'm a **Software Engineer and AI Researcher** interested in building intelligent
 ---
 
 
-## 🏅 Achievements & Highlights
 
-- 🎯 **42 School Student** - Currently pursuing software engineering
-- 🔥 **Active Open Source Contributor** with consistent commit history
-- 📊 **Data Science Enthusiast** - Passionate about ML and AI
-- 🌟 **Full-Stack Developer** - Building end-to-end applications
-- 🚀 **Problem Solver** - Love tackling complex coding challenges
-
----
 
 ## 🌟 Featured Projects
 
-### 🎯 [dimensionality reduction](https://github.com/ylamkhan/project1)
-**AI-Powered Data Analysis Platform**
-- **Tech Stack**: Python, FastAPI, React, PostgreSQL
-- **Features**: Machine learning models, real-time data processing, interactive dashboards
-- **Impact**: Automated data insights for business decisions
+<!-- FEATURED-PROJECTS:START -->
 
-### 🚀 [ft_transcendence](https://github.com/ylamkhan/ft_transcendence)  
-**Full-Stack Web Application**
-- **Tech Stack**: Html, JavaScript,CSS, PostgreSQL, Docker
-- **Features**: Authentication, real-time updates, responsive design
-- **Impact**: Scalable solution serving 1000+ users
+*Projects are automatically updated from my GitHub repositories.*
 
-### 🤖 [Piscine Data Science](https://github.com/ylamkhan/PiscinesDataScience)
-**Machine Learning Model Pipeline**
-- **Tech Stack**: Python, TensorFlow, Docker
-- **Features**: Automated model training, deployment pipeline, API integration
-- **Impact**: 95% accuracy improvement over baseline
+<!-- FEATURED-PROJECTS:END -->
 
 ---
 
-## 📈 Coding Activity
-
-<div align="center">
-
-### ⚡ Real-Time Development Stats
-<!--START_SECTION:waka-->
-```text
-💻 This Week I Coded:
-
-Python       12 hrs 30 mins  ██████████████░░░  65.2%
-JavaScript    4 hrs 15 mins  ██████░░░░░░░░░░░  22.1%
-TypeScript    1 hr 45 mins   ███░░░░░░░░░░░░░░   9.1%
-SQL          42 mins         ██░░░░░░░░░░░░░░░   3.6%
-
-🔥 Streak: 45 days
-⭐ Total Commits: 1,234
-```
-<!--END_SECTION:waka-->
-
-### 📊 Development Metrics
-| Metric | Value | Progress |
-|--------|-------|----------|
-| 🔥 **Current Streak** | 45 days | `████████░░` 80% |
-| ⭐ **Total Stars** | 234 | `██████████` 100% |
-| 🍴 **Forks Received** | 89 | `██████░░░░` 60% |
-| 👀 **Profile Views** | 2.5K | `████████░░` 85% |
-
-</div>
-
----
 
 ## 🤝 Connect with Me
 

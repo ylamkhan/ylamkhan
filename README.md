@@ -199,7 +199,31 @@ I'm a **Software Engineer and AI Researcher** interested in building intelligent
 
 <!-- FEATURED-PROJECTS:START -->
 
-Projects are automatically updated from my GitHub repositories.
+Projects automatically ranked by their latest push activity.
+
+### 🔒 -Drone_de_surveillance_intelligent (Private)
+
+No description provided.
+
+- **Language:** Python
+- **Last push:** 2026-11-13 20:09 UTC
+- **Visibility:** Private
+
+### 🔒 CropID-UM6P (Private)
+
+No description provided.
+
+- **Language:** TypeScript
+- **Last push:** 2026-11-12 13:04 UTC
+- **Visibility:** Private
+
+### 🔒 spes (Private)
+
+No description provided.
+
+- **Language:** JavaScript
+- **Last push:** 2026-11-09 11:09 UTC
+- **Visibility:** Private
 
 <!-- FEATURED-PROJECTS:END -->
 

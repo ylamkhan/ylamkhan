@@ -248,15 +248,4 @@ I'm a **Software Engineer and AI Researcher** interested in building intelligent
 </div>
 
 
-## 🏆 GitHub Achievements
-
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png)
-![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
-![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
-![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
-
-
----
-
 *"The best way to predict the future is to create it."* - Peter Drucker

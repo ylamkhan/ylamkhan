@@ -148,34 +148,50 @@ I'm a **Software Engineer and AI Researcher** interested in building intelligent
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-  <!-- GitHub Overview -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ylamkhan&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub Overview"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ylamkhan&theme=github-dark-blue&hide_border=true" alt="Contribution Streak"/>
+### GitHub Overview
 
-  <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <img src="./assets/overview.light.svg" width="100%" alt="GitHub Overview">
+</picture>
 
-  <!-- Most Used Languages -->
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylamkhan&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most Used Languages"/>
+### 💻 Programming Languages
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+  <img src="./assets/languages.light.svg" width="100%" alt="Programming Languages">
+</picture>
 
-### 📈 Contribution Activity
+### 🔥 Contribution Statistics
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ylamkhan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <img src="./assets/contributions.light.svg" width="100%" alt="GitHub Contributions">
+</picture>
 
-### 🏆 Achievements
+### 📈 Contribution History
 
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ylamkhan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Achievements"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
+  <img src="./assets/lifetime.light.svg" width="100%" alt="Contribution History">
+</picture>
+
+### 📊 Contribution Breakdown
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/composition.dark.svg">
+  <img src="./assets/composition.light.svg" width="100%" alt="Contribution Breakdown">
+</picture>
+
 </div>
 
 ---
+
 
 ## 🏅 Achievements & Highlights
 

@@ -3,9 +3,9 @@
 
 
 
-<!-- Animated Typing Header -->
+<!-- Animated Professional Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A020F0&width=800&lines=Hi+there%2C+I'm+Youssef+Lamkhantar+%F0%9F%91%8B;I+love+coding+💻;I+love+data+science+📊;I+love+AI+🤖;I+love+problem+solving+🧩;I+love+development+🚀" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Youssef+Lamkhantar;Software+Engineer+%7C+AI+%26+Machine+Learning;Building+Intelligent+Software+Solutions;Remote+Sensing+%7C+Geospatial+AI;Research+%7C+Innovation+%7C+Engineering" alt="Professional Typing Header" />
 </div>
 
 <!-- Profile Header with Current Date -->

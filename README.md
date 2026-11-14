@@ -17,11 +17,15 @@
 
 </div>
 
+## 🎓 42 Network Stats
+
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/ylamkhan"
-         alt="42 Network Stats"
-         width="400">
+  <a href="https://42cv.dev/">
+    <img
+      src="https://42cv.dev/api/badge/cmwgdcgdh00020kpb1wkcoyiy/stats?cursusId=21&coalitionId=79"
+      alt="Youssef's 42 Network Statistics"
+      width="500"
+    />
   </a>
 </p>
 

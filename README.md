@@ -152,21 +152,27 @@ I'm a **Software Engineer and AI Researcher** interested in building intelligent
 
 <div align="center">
 
-### 🔥 GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=ylamkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ylamkhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <!-- GitHub Overview -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ylamkhan&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub Overview"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ylamkhan&theme=github-dark-blue&hide_border=true" alt="Contribution Streak"/>
 
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylamkhan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%"/>
+  <br/>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ylamkhan&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <!-- Most Used Languages -->
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylamkhan&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most Used Languages"/>
 
 </div>
 
 ### 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ylamkhan&bg_color=0d1117&color=A020F0&line=FFFFFF&point=A020F0&area=true&hide_border=true&custom_title=Youssef's%20Contribution%20Graph" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ylamkhan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity"/>
+</div>
+
+### 🏆 Achievements
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ylamkhan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Achievements"/>
 </div>
 
 ---

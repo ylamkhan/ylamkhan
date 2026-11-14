@@ -27,6 +27,16 @@ jobs:
 
             const username = 'ylamkhan';
             const readmePath = 'README.md';
+            
+            // Verify which GitHub account owns the token
+            const account = await github.rest.users.getAuthenticated();
+            
+            core.info(`Authenticated account: ${account.data.login}`);
+            core.info(`Expected account: ${username}`);
+            
+            if (account.data.login.toLowerCase() !== username.toLowerCase()) {
+              throw new Error('The PROJECTS_TOKEN belongs to a different GitHub account.');
+            }
 
             // Retrieve repositories belonging to the authenticated account
             const repos = await github.paginate(
@@ -39,6 +49,15 @@ jobs:
                 per_page: 100
               }
             );
+            core.info(`Repositories retrieved: ${repos.length}`);
+
+            const owned = repos.filter(
+              repo => repo.owner.login.toLowerCase() === username.toLowerCase()
+            );
+            
+            core.info(`Repositories owned by ylamkhan: ${owned.length}`);
+            core.info(`Private repositories accessible: ${owned.filter(r => r.private).length}`);
+            core.info(`Public repositories accessible: ${owned.filter(r => !r.private).length}`);
 
             // Select the latest three projects, including private ones
             const latest = repos
@@ -84,6 +103,8 @@ jobs:
 
             const start = '<!-- FEATURED-PROJECTS:START -->';
             const end = '<!-- FEATURED-PROJECTS:END -->';
+
+            
 
             let readme = fs.readFileSync(readmePath, 'utf8');
 

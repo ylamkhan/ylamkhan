@@ -199,11 +199,9 @@ I'm a **Software Engineer and AI Researcher** interested in building intelligent
 
 <!-- FEATURED-PROJECTS:START -->
 
-*Projects are automatically updated from my GitHub repositories.*
+Projects are automatically updated from my GitHub repositories.
 
 <!-- FEATURED-PROJECTS:END -->
-
----
 
 
 ## 🤝 Connect with Me

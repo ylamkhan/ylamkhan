@@ -201,20 +201,20 @@ I'm a **Software Engineer and AI Researcher** interested in building intelligent
 
 Projects automatically ranked by their latest push activity.
 
+### 🔒 Cloude (Private)
+
+No description provided.
+
+- **Language:** TeX
+- **Last push:** 2026-11-21 15:55 UTC
+- **Visibility:** Private
+
 ### 🔒 -Drone_de_surveillance_intelligent (Private)
 
 No description provided.
 
 - **Language:** Python
 - **Last push:** 2026-11-21 14:02 UTC
-- **Visibility:** Private
-
-### 🔒 Cloude (Private)
-
-No description provided.
-
-- **Language:** Not specified
-- **Last push:** 2026-11-21 12:29 UTC
 - **Visibility:** Private
 
 ### 🔒 Cloud-computing (Private)

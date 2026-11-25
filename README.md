@@ -201,6 +201,14 @@ I'm a **Software Engineer and AI Researcher** interested in building intelligent
 
 Projects automatically ranked by their latest push activity.
 
+### 🔒 CropID-UM6P (Private)
+
+No description provided.
+
+- **Language:** TypeScript
+- **Last push:** 2026-11-24 17:26 UTC
+- **Visibility:** Private
+
 ### 🚀 [deep-learning-tablet-labs](https://github.com/ylamkhan/deep-learning-tablet-labs)
 
 No description provided.
@@ -208,14 +216,6 @@ No description provided.
 - **Language:** Jupyter Notebook
 - **Last push:** 2026-11-23 20:54 UTC
 - **Visibility:** Public
-
-### 🔒 CropID-UM6P (Private)
-
-No description provided.
-
-- **Language:** TypeScript
-- **Last push:** 2026-11-23 14:53 UTC
-- **Visibility:** Private
 
 ### 🔒 -Drone_de_surveillance_intelligent (Private)
 

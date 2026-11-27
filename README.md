@@ -201,6 +201,14 @@ I'm a **Software Engineer and AI Researcher** interested in building intelligent
 
 Projects automatically ranked by their latest push activity.
 
+### 🚀 [TP1-traitement-images](https://github.com/ylamkhan/TP1-traitement-images)
+
+No description provided.
+
+- **Language:** MATLAB
+- **Last push:** 2026-11-26 22:05 UTC
+- **Visibility:** Public
+
 ### 🔒 CropID-UM6P (Private)
 
 No description provided.
@@ -216,14 +224,6 @@ No description provided.
 - **Language:** Jupyter Notebook
 - **Last push:** 2026-11-23 20:54 UTC
 - **Visibility:** Public
-
-### 🔒 -Drone_de_surveillance_intelligent (Private)
-
-No description provided.
-
-- **Language:** Python
-- **Last push:** 2026-11-23 10:52 UTC
-- **Visibility:** Private
 
 <!-- FEATURED-PROJECTS:END -->
 

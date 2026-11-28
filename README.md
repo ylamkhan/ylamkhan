@@ -201,6 +201,14 @@ I'm a **Software Engineer and AI Researcher** interested in building intelligent
 
 Projects automatically ranked by their latest push activity.
 
+### 🔒 -Drone_de_surveillance_intelligent (Private)
+
+No description provided.
+
+- **Language:** Python
+- **Last push:** 2026-11-27 17:52 UTC
+- **Visibility:** Private
+
 ### 🚀 [TP1-traitement-images](https://github.com/ylamkhan/TP1-traitement-images)
 
 No description provided.
@@ -216,14 +224,6 @@ No description provided.
 - **Language:** TypeScript
 - **Last push:** 2026-11-25 10:28 UTC
 - **Visibility:** Private
-
-### 🚀 [deep-learning-tablet-labs](https://github.com/ylamkhan/deep-learning-tablet-labs)
-
-No description provided.
-
-- **Language:** Jupyter Notebook
-- **Last push:** 2026-11-23 20:54 UTC
-- **Visibility:** Public
 
 <!-- FEATURED-PROJECTS:END -->
 

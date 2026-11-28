@@ -201,6 +201,14 @@ I'm a **Software Engineer and AI Researcher** interested in building intelligent
 
 Projects automatically ranked by their latest push activity.
 
+### 🔒 Cloude (Private)
+
+No description provided.
+
+- **Language:** TeX
+- **Last push:** 2026-11-28 13:59 UTC
+- **Visibility:** Private
+
 ### 🔒 -Drone_de_surveillance_intelligent (Private)
 
 No description provided.
@@ -216,14 +224,6 @@ No description provided.
 - **Language:** MATLAB
 - **Last push:** 2026-11-26 22:05 UTC
 - **Visibility:** Public
-
-### 🔒 CropID-UM6P (Private)
-
-No description provided.
-
-- **Language:** TypeScript
-- **Last push:** 2026-11-25 10:28 UTC
-- **Visibility:** Private
 
 <!-- FEATURED-PROJECTS:END -->
 
